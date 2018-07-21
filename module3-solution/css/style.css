@@ -59,5 +59,8 @@
     margin-top: 10px;
 }
 .row{
-    margin: 30px 10px !important;
+    margin: 30px 5px !important;
+}
+.pad{
+    padding: 5px !important;
 }
