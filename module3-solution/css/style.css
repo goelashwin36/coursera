@@ -1,0 +1,64 @@
+.heading{
+     font-size: 40px;
+     font-family: "Comic Sans MS";
+     text-align: center;
+     text-transform: uppercase;
+     margin-top: 40px;
+ }
+.navbar-toggler{
+    font-size: 1.5rem !important;
+    padding: .15rem .55rem !important;
+}
+.navbar-toggler-icon{
+    width: 1.1em !important;
+    height: 1.1em !important;
+}
+.navbar-dark .navbar-toggler {
+    border-color: rgba(255,255,255,.8) !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.6) !important;
+    text-align: center !important;
+    font-size: 23px;
+
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, .9) !important;
+}
+.navbar-brand{
+    font-size: 30px !important;
+    font-family: Calibri;
+}
+
+.section{
+    margin-top: 50px;
+}
+.box{
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: grey;
+    border: 2px solid black;
+    margin: 10px;
+    display: block;
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+
+.box_text p{
+    clear: both !important;
+    font-family: Arial;
+    font-size: 18px;
+    padding: 10px;
+    margin: 0px;
+}
+.box_head{
+    text-align: center;
+    font-size: 30px;
+    font-family: "Comic Sans MS";
+    margin-top: 10px;
+}
+.row{
+    margin: 30px 10px !important;
+}
