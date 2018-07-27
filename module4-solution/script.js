@@ -57,7 +57,7 @@ for (i=0;i<names.length;i++) {
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
   if (names[i][0].toLowerCase() == "j" ) {
-     byeSpeaker.speak(names[i])
+     byeSpeaker.speak(names[i]);
   } else {
      helloSpeaker.speak(names[i]);
   }
